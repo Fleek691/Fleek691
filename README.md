@@ -41,6 +41,8 @@
 ![GitHub Snake](https://raw.githubusercontent.com/Fleek691/Fleek691/output/github-snake.svg)
 
 ---
+![](https://komarev.com/ghpvc/?username=Fleek691&color=blue)
+
 
 ## 🔗 Connect with me
 - GitHub: https://github.com/Fleek691  
