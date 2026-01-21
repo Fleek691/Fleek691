@@ -35,3 +35,6 @@
 ![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
+
+![GitHub Snake](https://raw.githubusercontent.com/Fleek691/Fleek691/output/github-snake.svg)
+
