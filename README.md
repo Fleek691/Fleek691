@@ -47,4 +47,4 @@
 ## 🔗 Connect with me
 - GitHub: https://github.com/Fleek691  
 - LinkedIn: (add soon)  
-- Email: (optional later)
+- Email: avishekprasad12345@gmail.com
