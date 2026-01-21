@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Avishek Prasad  
 
-<!--
-**Fleek691/Fleek691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Final Year Student  
+💻 Interested in Software Development, .NET, Android & AI-based projects  
+🚀 Currently improving my C#, SQL, and problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Languages: C#, Java, JavaScript, SQL  
+- Tech: .NET, Android (Kotlin), Git, GitHub  
+- Concepts: OOP, DSA, LINQ, DBMS, Basics of ML  
+
+---
+
+## 📌 Featured Projects
+🔹 AI Resume Analyzer  
+🔹 IndiaGovNews (Android App)  
+🔹 Image-Based Wealth Estimation  
+🔹 .NET Practice & SQL Training  
+
+---
+
+## 📊 GitHub Stats
+![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleek691&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleek691&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- GitHub: https://github.com/Fleek691  
+- LinkedIn: (add when you have)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
